@@ -1,9 +1,9 @@
 # Jo
 
-+ <a herf ="https://jo-chidtaphai.github.io/JO" ></a>
-+ <a herf ="https://jo-chidtaphai.github.io/CSC" ></a>
-+ <a href="https://vitejs.dev" target="_blank">About me</a>
-+ <a href="https://vitejs.dev" target="_blank">Life at CSC</a>
++ <a herf ="" ></a>
++ <a herf ="" ></a>
++ <a href="https://jo-chidtaphai.github.io/JO" target="_blank">About me</a>
++ <a href="https://jo-chidtaphai.github.io/CSC" target="_blank">Life at CSC</a>
          
         
  
