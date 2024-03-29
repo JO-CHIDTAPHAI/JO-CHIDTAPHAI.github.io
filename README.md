@@ -1,1 +1,4 @@
-# JO-CHIDTAPHAI.github.io
+# Jo
+
++ About me
++ Life at CSC
