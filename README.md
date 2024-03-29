@@ -1,4 +1,4 @@
 # Jo
 
-+ About me = https://jo-chidtaphai.github.io/JO
++ About me 
 + Life at CSC
