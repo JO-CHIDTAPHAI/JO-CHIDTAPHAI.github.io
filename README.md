@@ -1,8 +1,8 @@
 # Jo
 
-+ <a href="https://jo-chidtaphai.github.io/JO" >About me</a>
-+ <a href="https://vitejs.dev" target="_blank">Life at CSC</a>
-+ <a href="https://vitejs.dev" target="_blank">JO JO</a>
++ <Link to ="https://vitejs.dev" >About me</Link>
++ <Link to="https://vitejs.dev" >Life at CSC</Link>
++ 
           
         
           
