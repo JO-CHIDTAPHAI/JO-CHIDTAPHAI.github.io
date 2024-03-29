@@ -1,8 +1,8 @@
 # Jo
 
-+ <Link to ="https://vitejs.dev" >About me</Link>
-+ <Link to="https://vitejs.dev" >Life at CSC</Link>
-+ 
++ <a herf ="https://jo-chidtaphai.github.io/JO" >About me</a>
++ <a herf ="https://jo-chidtaphai.github.io/CSC" >Life at CSC</a>
+ 
           
         
           
