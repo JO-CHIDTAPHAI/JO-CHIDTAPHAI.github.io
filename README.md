@@ -1,4 +1,4 @@
-# JO CHIDTAPHAI (2003)
+# JO CHIDTAPHAI 
 
 + [About me](JO)
 + [Life at CSC](CSC)
