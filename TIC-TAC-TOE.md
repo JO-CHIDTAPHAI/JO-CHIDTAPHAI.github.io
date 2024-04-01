@@ -1,2 +1,0 @@
-# CORD TIC TAC TOE
-
