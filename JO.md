@@ -1,4 +1,4 @@
-# JO CHIDTAPHAI
+# ABOUT ME
 
 + Name:JO
 + Education : Advanced
