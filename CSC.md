@@ -1,6 +1,6 @@
 # LIFE AT CSC
 + Figma
-+ VS Code ![Image](/img/figma.jpg "figma")
++ VS Code ![Image](/img/figma.png "figma")
 + React JS
 
 ## My mentor : Ham
