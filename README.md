@@ -11,6 +11,6 @@
 + [Word Press](Word-Press)
 
 
-+ [Make a CarBooking app in Figma](TIC-TAC-TOE)
++ [Make a CarBooking app in Figma](CARBOOKING)
 
 
