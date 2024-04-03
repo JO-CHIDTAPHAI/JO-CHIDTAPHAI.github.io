@@ -1,6 +1,7 @@
 # JO CHIDTAPHAI 
 
 + [About me](JO)
+
 + [Life at CSC](CSC)
 
 ## PROJECTS ທີ່ໄດ້ທົດລອງເຮັດ
