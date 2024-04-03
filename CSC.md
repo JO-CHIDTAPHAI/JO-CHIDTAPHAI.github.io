@@ -1,6 +1,6 @@
 # LIFE AT CSC
 + CSC 45 ວັນ 
-+
+<img src='img/figma-icon.png' width='25'>
 ## Learn about
 + [Figma](https://www.figma.com/)
 + [VS Code](https://code.visualstudio.com/)
