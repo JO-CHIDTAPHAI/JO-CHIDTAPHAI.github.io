@@ -3,7 +3,7 @@
 + [About me](JO)
 + [Life at CSC](CSC)
 
-## PROJECTS 
+## PROJECTS ທິ່ໄດ້ທົດລອງເຮັດ
 + [Tic Tac Toe](https://github.com/JO-CHIDTAPHAI/JO-CHIDTAPHAI.github.io/tree/main/TIC_TAC_TOE)
 ### Tic Tac Toe With React 
 ![ Image](/img/cover.png  "Tic Tac Toe With React")
