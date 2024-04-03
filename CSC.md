@@ -1,5 +1,4 @@
 # LIFE AT CSC
-* hh
 + [Figma](https://www.figma.com/)
 + [VS Code](https://code.visualstudio.com/)
 + [Node JS](https://nodejs.org/en)
