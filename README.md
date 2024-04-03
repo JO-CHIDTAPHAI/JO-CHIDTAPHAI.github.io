@@ -13,6 +13,6 @@
 
 <img src='img/Word Press.png' width='500'>
 
-+ [CarBooking](TIC-TAC-TOE)
++ [Make a CarBooking app in Figma](TIC-TAC-TOE)
 
 <img src='/img/carbooking.png' width='500'>
