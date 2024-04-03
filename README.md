@@ -5,7 +5,7 @@
 
 ## PROJECTS ທີ່ໄດ້ທົດລອງເຮັດ
 
-+ [Tic Tac Toe](TIC-TAC-TOE)
++ [React](TIC-TAC-TOE)
 
 
 + [Word Press](Word-Press)
