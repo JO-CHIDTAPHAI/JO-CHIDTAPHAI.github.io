@@ -8,7 +8,7 @@
 + [React](https://react.dev/)
 + [React JS](https://www.w3schools.com/REACT/react_jsx.asp)
 + [Xampp](https://www.apachefriends.org/index.html)
-+ [Wordpassd](https://wordpress.org/news/podcast/?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAaw1gD7hl0PJsI5IwLefpy6SpsVmjDqXeGEQ6FWsi9dSpB7pF30MGxoCcUQQAvD_BwE)
++ [Word Press](https://wordpress.org/news/podcast/?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAaw1gD7hl0PJsI5IwLefpy6SpsVmjDqXeGEQ6FWsi9dSpB7pF30MGxoCcUQQAvD_BwE)
 
 ### My mentor : Ham
 
