@@ -3,7 +3,7 @@
 
 ## Learn about
 + [<img src='img/figma-icon.png' width='25'>](https://www.figma.com/)
-+ [VS Code](https://code.visualstudio.com/)
++ [<img src='img/vscode.png' width='25'>](https://code.visualstudio.com/)
 + [Node JS](https://nodejs.org/en)
 + [React](https://react.dev/)
 + [React JS](https://www.w3schools.com/REACT/react_jsx.asp)
