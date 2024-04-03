@@ -1,7 +1,10 @@
 # LIFE AT CSC
-+ Figma
-+ VS Code 
-+ React JS
++ [Figma](https://www.figma.com/)
++ [VS Code][https://code.visualstudio.com/]
++ [Node JS](https://nodejs.org/en)
++ [React](https://react.dev/)
++ [React JS](https://www.w3schools.com/REACT/react_jsx.asp)
+
 
 ## My mentor : Ham
 
