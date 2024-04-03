@@ -9,6 +9,10 @@
 
 ![ Image](/img/cover.png  "Tic Tac Toe With React")
 
++ [Word Press](Word-Press)
+
+![ Image](/img/cover.png  "Tic Tac Toe With React")
+
 + [CarBooking](TIC-TAC-TOE)
 
 <img src='/img/carbooking.png' width='500'>
