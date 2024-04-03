@@ -1,6 +1,6 @@
 # PROJECTS ທິ່ໄດ້ທົດລອງເຮັດ
 
-+ [TicTacToeCode](https://github.com/JO-CHIDTAPHAI/JO-CHIDTAPHAI.github.io/tree/main/TIC_TAC_TOE)
++ [Tic-Tac-Toe Code](https://github.com/JO-CHIDTAPHAI/JO-CHIDTAPHAI.github.io/tree/main/TIC_TAC_TOE)
 
 ### Tic Tac Toe With React 
 
