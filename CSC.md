@@ -2,7 +2,7 @@
 + CSC 45 ວັນ 
 
 ## Learn about
-+ <img src='img/figma-icon.png' width='25'[Figma](https://www.figma.com/)>
++ [<img src='img/figma-icon.png' width='25'>](https://www.figma.com/)
 + [VS Code](https://code.visualstudio.com/)
 + [Node JS](https://nodejs.org/en)
 + [React](https://react.dev/)
