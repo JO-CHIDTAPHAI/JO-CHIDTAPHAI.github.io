@@ -1,5 +1,6 @@
 # ABOUT ME
-<img src='img/jojo.jpgimg' width='100'>
+![AnVIL Image](/img/jojo.jpg "JO")
+<img src='/img/jojo.jpg' width='50'>
 + Name:JO
 + Studied at school : POLYTECHNIC COLLEGE LAOS
 + Education : Advanced
