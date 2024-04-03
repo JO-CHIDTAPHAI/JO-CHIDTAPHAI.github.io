@@ -6,9 +6,9 @@
 [<img src='img/vscode.png' width='50'>](https://code.visualstudio.com/)
 [<img src='img/node js.png' width='50'>](https://nodejs.org/en)
 [<img src='img/React.png' width='50'>](https://react.dev/)
+[<img src='img/Xampp.png' width='50'>](https://www.apachefriends.org/index.html)
+[<img src='img/Word Press.png' width='50'>](https://wordpress.org/news/podcast/?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAaw1gD7hl0PJsI5IwLefpy6SpsVmjDqXeGEQ6FWsi9dSpB7pF30MGxoCcUQQAvD_BwE)
 + [React JS](https://www.w3schools.com/REACT/react_jsx.asp)
-+ [Xampp](https://www.apachefriends.org/index.html)
-+ [Word Press](https://wordpress.org/news/podcast/?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAaw1gD7hl0PJsI5IwLefpy6SpsVmjDqXeGEQ6FWsi9dSpB7pF30MGxoCcUQQAvD_BwE)
 
 ### My mentor : Ham
 
