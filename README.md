@@ -11,4 +11,4 @@
 
 + [CarBooking](TIC-TAC-TOE)
 
-![ Image](/img/carbooking.png  "CarBooking")
+<img src='/img/carbooking.png' width='500'>
