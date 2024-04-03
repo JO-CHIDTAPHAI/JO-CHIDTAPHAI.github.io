@@ -4,7 +4,7 @@
 ## Learn about
 [<img src='img/figma-icon.png' width='50'>](https://www.figma.com/)
 [<img src='img/vscode.png' width='50'>](https://code.visualstudio.com/)
-+ [Node JS](https://nodejs.org/en)
++ [<img src='img/node js.png' width='50'>](https://nodejs.org/en)
 + [React](https://react.dev/)
 + [React JS](https://www.w3schools.com/REACT/react_jsx.asp)
 + [Xampp](https://www.apachefriends.org/index.html)
