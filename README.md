@@ -11,7 +11,7 @@
 
 + [Word Press](Word-Press)
 
-![ Image](/img/cover.png  "Tic Tac Toe With React")
+<img src='img/Word Press.png' width='500'>
 
 + [CarBooking](TIC-TAC-TOE)
 
