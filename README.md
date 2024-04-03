@@ -11,8 +11,8 @@
 
 + [Word Press](Word-Press)
 
-<img src='img/Word Press.png' width='500'>
+<img src='img/Word Press.png' width='300'>
 
 + [Make a CarBooking app in Figma](TIC-TAC-TOE)
 
-<img src='/img/carbooking.png' width='500'>
+<img src='/img/carbooking.png' width='300'>
