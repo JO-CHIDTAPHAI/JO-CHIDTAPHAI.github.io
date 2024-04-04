@@ -1,7 +1,7 @@
 # PROJECTS ທີ່ໄດ້ທົດລອງເຮັດ 
 + Wordpress + Divi ໃຊ້ງານຮ່ວມກັນ
 
-<img src='img/Word Press.png' width='130'> + 
+<img src='img/Word Press.png' width='130'>
 <img src='/img/Divi1.png' width='150'>
 + ຜົນງານ
 
