@@ -15,6 +15,7 @@
 + [React JS](https://www.w3schools.com/REACT/react_jsx.asp)
 
 ### My mentor 
++ ອ້າຍ ໄມຄິນ
 + ອ້າຍ ສາຍເພັດ
 + ອ້າຍ ແຮ້ມ
 + ອ້າຍ ນິກ
