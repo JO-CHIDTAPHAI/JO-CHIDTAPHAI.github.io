@@ -18,6 +18,10 @@
 + ອ້າຍ ສາຍເພັດ
 + ອ້າຍ ແຮ້ມ
 + ອ້າຍ ນິກ
+<img src='img/P-maikin.jpg' width='50'>
+<img src='img/P-sayphet.jpg' width='50'>
+<img src='img/P-ham.jpg' width='50'>
+<img src='img/P-nik.jpg' width='50'>
 
 ### ຄວາມຮູ້ທີ່ໄດ້ຈາກອ້າຍທຸກໆໃນທີ່ເຝິກງານ
 + What I've learned : ຮຽນຮູ້ແນວຄວາມຄິດ React ເຊັ່ນ: ການຄິດອົງປະກອບ, useState hook, useEffect hook, prop drilling. ພວກເຮົາຍັງຄວບຄຸມສຽງ JS, ແນວຄວາມຄິດຂອງ CSS ເຊັ່ນ: flex-box ແລະ grid ສໍາລັບການສະແດງ, ແລະອື່ນໆອີກເພື່ອສ້າງ UI ທີ່ສວຍງາມ.
