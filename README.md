@@ -16,5 +16,5 @@
 
 [ <img src='/img/figma-icon.png' width='100'>](CARBOOKING)
 
-+[Figma](CARBOOKING)
++ [Figma](CARBOOKING)
 
