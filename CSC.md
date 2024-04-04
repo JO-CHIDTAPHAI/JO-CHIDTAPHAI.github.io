@@ -18,6 +18,7 @@
 + ອ້າຍ ສາຍເພັດ
 + ອ້າຍ ແຮ້ມ
 + ອ້າຍ ນິກ
+
 <img src='img/P-maikin.jpg' width='50'>
 <img src='img/P-sayphet.jpg' width='50'>
 <img src='img/P-ham.jpg' width='50'>
