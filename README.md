@@ -8,16 +8,16 @@
 
 + [React](TIC-TAC-TOE)
 
-<img src='img/React.png' width='100'>
+[<img src='img/React.png' width='100'>](TIC-TAC-TOE)
 
 
 + [Word Press](Word-Press)
 
-<img src='/img/Word Press.png' width='100'>
+[<img src='/img/Word Press.png' width='100'>](Word-Press)
 
 
 +[Figma](CARBOOKING)
 
- <img src='/img/figma-icon.png' width='100'>
+[ <img src='/img/figma-icon.png' width='100'>](CARBOOKING)
 
 
