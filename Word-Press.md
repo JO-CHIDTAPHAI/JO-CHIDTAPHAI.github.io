@@ -2,5 +2,5 @@
 + ຜົນງານ
 
 [http://103.114.146.8/polytechnic/](http://103.114.146.8/polytechnic/)
-<img src='img/Word Press.png' width='300'>
-<img src='/img/Divi.png' width='200'>
+<img src='img/Word Press.png' width='150'>
+<img src='/img/Divi.jpg' width='150'>
