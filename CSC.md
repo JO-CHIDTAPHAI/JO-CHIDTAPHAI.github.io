@@ -22,7 +22,7 @@
 <img src='img/P-maikin.jpg' width='325'>
 <img src='img/P-sayphet.jpg' width='325'>
 <img src='img/P-ham.jpg' width='325'>
-<img src='img/P-nik2.jpg' width='325'>
+<img src='img/P-nik2.png' width='325'>
 
 ### ຄວາມຮູ້ທີ່ໄດ້ຈາກອ້າຍທຸກໆຄົນໃນທີ່ເຝິກງານ
 + Programmer ຫຼື ເອີ້ນວ່າ “ນັກຂຽນໂປຣແກຣມ” ເປັນຄົນທີ່ສາມາດພັດທະນາ, ສ້າງ ແລະ ແກ້ໄຂບັນຫາຕ່າງໆ. ໂດຍການຂຽນໂປຼແກຼມໃນພາສາຄອມພິວເຕີທີ່ແຕກຕ່າງກັນເຊັ່ນ: ພາສາ C, ພາສາ Java.
