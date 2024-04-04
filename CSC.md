@@ -1,6 +1,10 @@
 # LIFE AT CSC
-+ CSC 45 ວັນ 
-
++ 45 ວັນໃນ CSC  
++ ວັນທີ1-10 : ສຶກສາ Progrme Figma, ແລະ ອອກແບບ UX/UI ດວ້ຍຕົວເອງ.
++ ວັນທີ10-25 : “Figma”  และ เพื่อนๆอีก2คนช่วยกันทำจากที่ฝืกงาน (Bie & Anna)ໂດຍມີອ້າຍ ສາຍເພັດ ແລະ ອ້າຍທຸກໆຄົນໃນທີ່ເຝິກງານໃຫ້ຄຳແນະນຳ.
++ ,Xampp,Wordpress 
++ VS Code(HTML,CSS,JAVA),React.
++ Github
 ## Learn about
 [<img src='img/figma-icon.png' width='50'>](https://www.figma.com/)
 [<img src='img/vscode.png' width='50'>](https://code.visualstudio.com/)
