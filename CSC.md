@@ -14,6 +14,9 @@
 [<img src='img/Word Press.png' width='50'>](https://wordpress.org/news/podcast/?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAaw1gD7hl0PJsI5IwLefpy6SpsVmjDqXeGEQ6FWsi9dSpB7pF30MGxoCcUQQAvD_BwE)
 + [React JS](https://www.w3schools.com/REACT/react_jsx.asp)
 
-### My mentor : Ham
-
+### My mentor 
++ ອ້າຍ ສາຍເພັດ
++ ອ້າຍ ແຮມ
++ ອ້າຍ ນິກ
+### ຄວາມຮູ້ທີ່ໄດ້ຈາກອ້າຍທຸກໆໃນທີ່ເຝິກງານ
 + What I've learned : ຮຽນຮູ້ແນວຄວາມຄິດ React ເຊັ່ນ: ການຄິດອົງປະກອບ, useState hook, useEffect hook, prop drilling. ພວກເຮົາຍັງຄວບຄຸມສຽງ JS, ແນວຄວາມຄິດຂອງ CSS ເຊັ່ນ: flex-box ແລະ grid ສໍາລັບການສະແດງ, ແລະອື່ນໆອີກເພື່ອສ້າງ UI ທີ່ສວຍງາມ.
