@@ -6,15 +6,18 @@
 
 ## PROJECTS ທີ່ໄດ້ທົດລອງເຮັດ
 
-+ <img src='img/React.png' width='100'>
-[React](TIC-TAC-TOE)
++ [React](TIC-TAC-TOE)
+
+<img src='img/React.png' width='100'>
 
 
-+ <img src='/img/Word Press.png' width='100'>
-[Word Press](Word-Press)
++ [Word Press](Word-Press)
+
+<img src='/img/Word Press.png' width='100'>
 
 
-+ <img src='/img/figma-icon.png' width='100'>
-[Figma](CARBOOKING)
++[Figma](CARBOOKING)
+
+ <img src='/img/figma-icon.png' width='100'>
 
 
