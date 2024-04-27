@@ -14,7 +14,7 @@
 [<img src='img/Word Press.png' width='50'>](https://wordpress.org/news/podcast/?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAaw1gD7hl0PJsI5IwLefpy6SpsVmjDqXeGEQ6FWsi9dSpB7pF30MGxoCcUQQAvD_BwE)
 
 ### My mentor 
-+ ອ້າຍ ໄມຄິນ
++ ອ້າຍ ມາຄິນ
 + ອ້າຍ ສາຍເພັດ
 + ອ້າຍ ແຮ້ມ
 + ອ້າຍ ນິກ
